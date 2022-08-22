@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7siBahBAbVx6d0AXThRHRvb6R7+k3qK+DZaMUSCp/L5zDfvtTYKSPFrHIJ9daeKoC7b+WdgpxKF1ZV2kK1uNJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deanf\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LeftieTestMod\\LeftieTestMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deanf\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
